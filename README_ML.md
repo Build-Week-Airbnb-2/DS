@@ -33,5 +33,8 @@ Our model is probably seriously overfit.
 
 This might be the case if a lot of duplicate postings existing.
 
-Currently working through having the pickled models provide reproducable results on the live heroku API
+Our NN is currently deployed on the DS Heroku App at the following Address:
 
+https://ds-bw-airbnb-2.herokuapp.com/#/default/predict_predict_post
+
+This Heroku App predicts a price depending on the values provided in the JSON Submission
