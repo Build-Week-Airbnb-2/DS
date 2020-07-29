@@ -33,4 +33,5 @@ Our model is probably seriously overfit.
 
 This might be the case if a lot of duplicate postings existing.
 
+Currently working through having the pickled models provide reproducable results on the live heroku API
 
