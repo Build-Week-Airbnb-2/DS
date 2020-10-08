@@ -4,7 +4,7 @@ DS
 Unit 4 - Data Cleaning, Neural Networks and Linear Regression models.
 Goal of App: To ensure that Home owners can rent their properties at the optimal range.
 
-This project does not have a live API which we can learn from due to CO-VID19 Site issues but it
+This project does not have a live API which we can scrape data and learn from due to CO-VID19 Site issues but it
 
 does have historical data from many sources available.
 
