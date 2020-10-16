@@ -4,7 +4,7 @@ DS
 Unit 4 - Data Cleaning, Neural Networks and Linear Regression models.
 Goal of App: To ensure that Home owners can rent their properties at the optimal range.
 
-This project does not have a live API which we can scrape data and learn from due to CO-VID19 Site issues but it does have historical data from many sources available.
+This project did not use a live API due to CO-VID19 Site issues but it did use historical data as recent as 2019 to train and validate the prediction model.
 
 Through intense data research, collection, and cleaning, we assembled a table of 243k obvservations and 107 rows. We reduced the column count to 19 final features, while keeping observation(row) quantity.
 
